@@ -1,4 +1,4 @@
-public class Reciept {
+public class U1T2 {
     public static void main(String[] args) {
         //variables
         String customer = "Stacey";
