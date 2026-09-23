@@ -12,7 +12,7 @@ public class CodingPractice {
         System.out.println("Number of runners in the park: " + runnerCount);
 
         // this code SHOULD print out "Average pace of runners: 6.25"
-        double runnerPace = 6.25;
+        double runnerPace = 6.257;
         System.out.println("Average pace of runners: " + runnerPace);
     }
 }
