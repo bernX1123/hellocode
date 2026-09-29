@@ -9,6 +9,6 @@ public class Problem3 {
         int reverse1 = integer/100;
         int reverse3 = integer%10;
         int reverse2 = (integer/10)%10;
-        System.out.println("The reverse of " + integer + " is: " + reverse3 + reverse2 + reverse15);
+        System.out.println("The reverse of " + integer + " is: " + reverse3 + reverse2 + reverse1);
     }
 }
