@@ -22,6 +22,6 @@ public class ChatBotRunner {
 
         debbie.weather();
 
-        debbie.goodbye();
+        System.out.println(debbie.goodbye());
     }
 }
