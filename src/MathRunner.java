@@ -1,9 +1,10 @@
 public class MathRunner {
     public static void main(String[] args){
-        double x = 5;
-        double thirdPower = Math.pow(2,2);
-        System.out.println(thirdPower);
+        RightTriangle tr1 = new RightTriangle(6.5, 10.7);
+        RightTriangle tr2 = new RightTriangle(3, 4);
 
+        System.out.println(tr1.hypotenuse());
+        System.out.println(tr2.hypotenuse());
 
     }
 }
